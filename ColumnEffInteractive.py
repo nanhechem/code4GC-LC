@@ -13,10 +13,10 @@ def column():
                         
                 elif eff <2000 and eff > 1000:
                         print ("So close. Try harder!")
-                        return eff
+                        print (eff)
                 else:
                         print ("Please keep woring! never give up")
-                        return eff
+                        print (eff)
 
 			
 	
